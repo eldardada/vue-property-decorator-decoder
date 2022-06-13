@@ -1,0 +1,22 @@
+{
+  "name": "vue-property-decorator-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-old.js",
+  "scripts": {
+
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Eldar Dadshov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "fs": "^0.0.1-security"
+  },
+  "dependencies": {
+    "@vue/compiler-dom": "^3.2.37",
+    "path": "^0.12.7",
+    "typescript": "^4.7.3"
+  }
+}
